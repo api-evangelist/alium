@@ -64,5 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alium is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Alium provides a platform where brands can access in‑depth, AI‑synthesized interviews with technology vendors. The service gathers compensated research from over 1,000 brand leaders, delivering actionable insights on vendor performance, risk, and suitability. Alium’s AI analyses these conversations to help marketers, CISOs, and IT directors make data‑driven decisions about technology partners.
+
+**Areas:** Vendor research · Marketing intelligence · E-Commerce · Enterprise tech
+
+## Alium on APIs.io
+
+Everything profiled for Alium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alium/](https://apis.io/providers/alium/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Alium API](https://apis.io/apis/alium/alium-api-2/) — Alium API provides access to AI‑synthesized interview data and insights for brands.
+- [Alium Alium API](https://apis.io/apis/alium/alium-alium-api-api/) — The Alium API API from Alium — 2 operation(s) for alium api.
+- [Alium Vendors API](https://apis.io/apis/alium/alium-vendors-api/) — The Vendors API from Alium — 2 operation(s) for vendors.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Alium API Rules](https://apis.io/rules/alium/alium-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alium Authentication](https://apis.io/security/alium/alium-authentication/)
+- [Alium Domain Security](https://apis.io/security/alium/alium-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Alium Rate Limits](https://apis.io/rate-limits/alium/alium-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.alium.io/)
+- [Documentation](https://docs.alium.io/)
+- [Blog](https://www.alium.io/blog)
+- [Terms of service](https://www.alium.io/tos)
+- [Privacy policy](https://www.alium.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 25.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 11.9 |
+| Contract governance | 18.2 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 39.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | na |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | na |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | na |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alium/](https://apis.io/providers/alium/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alium/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
